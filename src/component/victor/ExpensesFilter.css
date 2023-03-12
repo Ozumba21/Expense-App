@@ -1,0 +1,25 @@
+.expenses-filter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+.expenses-filter h1{
+    color:#fff;
+    font-size:2rem;
+}
+.expenses-filter_control select {
+    padding:1rem 2rem 1rem 2rem;
+    border-radius: 1rem;
+    font-size:1rem;
+    outline:none;
+}
+.expenses-filter_control select option{
+    color:#000;
+    font-size:1rem;
+    font-weight: bold;
+    outline:none;
+    border: none;
+    padding:0;
+}
